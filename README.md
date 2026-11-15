@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>Hi there 👋, I'm Induwara!</h1>
-  <p>CS Undergrad | Aspiring Full-Stack Developer & Tech Learner</p>
+  <p>CS Undergraduate | Aspiring Full-Stack Developer & Tech Learner</p>
 </div>
 
 ---
 
 ### 🌐 About Me
 - 🌏 **Location:** Sri Lanka 🇱🇰
-- 🔭 **Who am I?** Induwara, a passionate tech learner and CS undergrad.
+- 🔭 **Who am I?** Induwara, a passionate tech learner who loves solving real-world problems through code.
 - 💻 **What am I currently working on?** Exploring core CS concepts, learning new technologies, and building coding projects.
-- ⚡ **Passionate about:** Full-stack Web Development, Software Engineering, and emerging tech.
-- 📫 **How to reach me:** Connect with me via [LinkedIn](https://www.linkedin.com/in/induwara-sinhapruthuvi-1514a93ab) or drop an email!
+- ⚡ **Passionate about:** Full-stack Web Development, Software Engineering,AI & ML and emerging tech.
+- 📫 **How to reach me:** Connect with me via [LinkedIn](https://www.linkedin.com/in/induwara-sinhapruthuvi-1514a93ab) or drop an [email](mailto:ඔයාගේ_induwara24355@gmail.com)!
 
 ---
 
