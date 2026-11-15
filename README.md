@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About Me
 - 🔭 **Who am I?** Induwara, a passionate tech learner.
-- 💻 **What am I currently working on?** Exploring core CS concepts, learning new technologies, and building coding projects[cite: 3].
-- 📫 **How to reach me?** Drop a message or connect via LinkedIn(www.linkedin.com/in/induwara-sinhapruthuvi-1514a93ab)[cite: 3]!
+- 💻 **What am I currently working on?** Exploring core CS concepts, learning new technologies, and building coding projects.
+- 📫 **How to reach me?** Drop a message or connect via [LinkedIn](www.linkedin.com/in/induwara-sinhapruthuvi-1514a93ab)
 
 ---
 
