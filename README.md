@@ -53,5 +53,5 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  <em>🚀 "First, solve the problem. Then, write the code."</em>
+  <em> 🐛"It works on my machine :( "</em>
 </div>
