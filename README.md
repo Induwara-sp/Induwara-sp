@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 **Who am I?** Induwara , a passionate tech learner.
+- 💻 **What am I currently working on?** Exploring core CS concepts, learning new technologies, and building coding projects.
+- 🛠️ **What tools do you use?** Javascript,React, Node.js, Express.js, Python, C, Java ,MongoDB, Git, and VS Code.
+- 📫 **How to reach you?** Drop a message or connect via LinkedIn!
