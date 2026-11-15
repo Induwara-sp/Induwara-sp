@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8¢er=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Induwara!;CS+Undergrad+%7C+Tech+Learner;Building+Full-Stack+Web+Apps" alt="Typing SVG" />
+  <h1>Hi there 👋, I'm Induwara!</h1>
+  <p>CS Undergrad | Aspiring Full-Stack Developer & Tech Learner</p>
 </div>
 
 ---
@@ -40,24 +43,15 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats & Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Induwara-sp&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://streak-stats.demolab.com?user=Induwara-sp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Induwara-sp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Induwara-sp&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Induwara-sp&theme=tokyonight&no-frame=true&row=1&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Induwara-sp&theme=tokyonight" alt="Profile Details" />
 </div>
 
 ---
 
 <div align="center">
-  <em>⚡ "Code is poetry, and every line tells a story."</em>
+  <em>🚀 "First, solve the problem. Then, write the code."</em>
 </div>
