@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>Hi there 👋, I'm Induwara!</h1>
-  <p>CS Undergrad | Passionate Full-Stack Developer & Tech Learner</p>
+  <p>CS Undergraduate | Passionate Full-Stack Developer & Tech Learner</p>
 </div>
 
 ---
